@@ -1,0 +1,14 @@
+C:\Users\osama\source\repos\Preply-LearningC#\RandomDiceRoll\bin\Debug\net9.0\RandomDiceRoll.exe
+C:\Users\osama\source\repos\Preply-LearningC#\RandomDiceRoll\bin\Debug\net9.0\RandomDiceRoll.deps.json
+C:\Users\osama\source\repos\Preply-LearningC#\RandomDiceRoll\bin\Debug\net9.0\RandomDiceRoll.runtimeconfig.json
+C:\Users\osama\source\repos\Preply-LearningC#\RandomDiceRoll\bin\Debug\net9.0\RandomDiceRoll.dll
+C:\Users\osama\source\repos\Preply-LearningC#\RandomDiceRoll\bin\Debug\net9.0\RandomDiceRoll.pdb
+C:\Users\osama\source\repos\Preply-LearningC#\RandomDiceRoll\obj\Debug\net9.0\RandomDiceRoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osama\source\repos\Preply-LearningC#\RandomDiceRoll\obj\Debug\net9.0\RandomDiceRoll.AssemblyInfoInputs.cache
+C:\Users\osama\source\repos\Preply-LearningC#\RandomDiceRoll\obj\Debug\net9.0\RandomDiceRoll.AssemblyInfo.cs
+C:\Users\osama\source\repos\Preply-LearningC#\RandomDiceRoll\obj\Debug\net9.0\RandomDiceRoll.csproj.CoreCompileInputs.cache
+C:\Users\osama\source\repos\Preply-LearningC#\RandomDiceRoll\obj\Debug\net9.0\RandomDiceRoll.dll
+C:\Users\osama\source\repos\Preply-LearningC#\RandomDiceRoll\obj\Debug\net9.0\refint\RandomDiceRoll.dll
+C:\Users\osama\source\repos\Preply-LearningC#\RandomDiceRoll\obj\Debug\net9.0\RandomDiceRoll.pdb
+C:\Users\osama\source\repos\Preply-LearningC#\RandomDiceRoll\obj\Debug\net9.0\RandomDiceRoll.genruntimeconfig.cache
+C:\Users\osama\source\repos\Preply-LearningC#\RandomDiceRoll\obj\Debug\net9.0\ref\RandomDiceRoll.dll

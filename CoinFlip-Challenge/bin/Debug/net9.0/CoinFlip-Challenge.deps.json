@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CoinFlip-Challenge/1.0.0": {
+        "runtime": {
+          "CoinFlip-Challenge.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CoinFlip-Challenge/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

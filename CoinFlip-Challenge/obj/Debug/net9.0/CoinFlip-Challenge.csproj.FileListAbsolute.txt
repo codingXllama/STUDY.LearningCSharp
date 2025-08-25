@@ -1,0 +1,14 @@
+C:\Users\osama\source\repos\Preply-LearningC#\CoinFlip-Challenge\bin\Debug\net9.0\CoinFlip-Challenge.exe
+C:\Users\osama\source\repos\Preply-LearningC#\CoinFlip-Challenge\bin\Debug\net9.0\CoinFlip-Challenge.deps.json
+C:\Users\osama\source\repos\Preply-LearningC#\CoinFlip-Challenge\bin\Debug\net9.0\CoinFlip-Challenge.runtimeconfig.json
+C:\Users\osama\source\repos\Preply-LearningC#\CoinFlip-Challenge\bin\Debug\net9.0\CoinFlip-Challenge.dll
+C:\Users\osama\source\repos\Preply-LearningC#\CoinFlip-Challenge\bin\Debug\net9.0\CoinFlip-Challenge.pdb
+C:\Users\osama\source\repos\Preply-LearningC#\CoinFlip-Challenge\obj\Debug\net9.0\CoinFlip-Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osama\source\repos\Preply-LearningC#\CoinFlip-Challenge\obj\Debug\net9.0\CoinFlip-Challenge.AssemblyInfoInputs.cache
+C:\Users\osama\source\repos\Preply-LearningC#\CoinFlip-Challenge\obj\Debug\net9.0\CoinFlip-Challenge.AssemblyInfo.cs
+C:\Users\osama\source\repos\Preply-LearningC#\CoinFlip-Challenge\obj\Debug\net9.0\CoinFlip-Challenge.csproj.CoreCompileInputs.cache
+C:\Users\osama\source\repos\Preply-LearningC#\CoinFlip-Challenge\obj\Debug\net9.0\CoinFlip-Challenge.dll
+C:\Users\osama\source\repos\Preply-LearningC#\CoinFlip-Challenge\obj\Debug\net9.0\refint\CoinFlip-Challenge.dll
+C:\Users\osama\source\repos\Preply-LearningC#\CoinFlip-Challenge\obj\Debug\net9.0\CoinFlip-Challenge.pdb
+C:\Users\osama\source\repos\Preply-LearningC#\CoinFlip-Challenge\obj\Debug\net9.0\CoinFlip-Challenge.genruntimeconfig.cache
+C:\Users\osama\source\repos\Preply-LearningC#\CoinFlip-Challenge\obj\Debug\net9.0\ref\CoinFlip-Challenge.dll

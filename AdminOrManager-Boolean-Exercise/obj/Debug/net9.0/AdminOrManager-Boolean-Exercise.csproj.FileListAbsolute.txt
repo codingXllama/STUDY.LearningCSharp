@@ -1,0 +1,14 @@
+C:\Users\osama\source\repos\Preply-LearningC#\AdminOrManager-Boolean-Exercise\bin\Debug\net9.0\AdminOrManager-Boolean-Exercise.exe
+C:\Users\osama\source\repos\Preply-LearningC#\AdminOrManager-Boolean-Exercise\bin\Debug\net9.0\AdminOrManager-Boolean-Exercise.deps.json
+C:\Users\osama\source\repos\Preply-LearningC#\AdminOrManager-Boolean-Exercise\bin\Debug\net9.0\AdminOrManager-Boolean-Exercise.runtimeconfig.json
+C:\Users\osama\source\repos\Preply-LearningC#\AdminOrManager-Boolean-Exercise\bin\Debug\net9.0\AdminOrManager-Boolean-Exercise.dll
+C:\Users\osama\source\repos\Preply-LearningC#\AdminOrManager-Boolean-Exercise\bin\Debug\net9.0\AdminOrManager-Boolean-Exercise.pdb
+C:\Users\osama\source\repos\Preply-LearningC#\AdminOrManager-Boolean-Exercise\obj\Debug\net9.0\AdminOrManager-Boolean-Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osama\source\repos\Preply-LearningC#\AdminOrManager-Boolean-Exercise\obj\Debug\net9.0\AdminOrManager-Boolean-Exercise.AssemblyInfoInputs.cache
+C:\Users\osama\source\repos\Preply-LearningC#\AdminOrManager-Boolean-Exercise\obj\Debug\net9.0\AdminOrManager-Boolean-Exercise.AssemblyInfo.cs
+C:\Users\osama\source\repos\Preply-LearningC#\AdminOrManager-Boolean-Exercise\obj\Debug\net9.0\AdminOrManager-Boolean-Exercise.csproj.CoreCompileInputs.cache
+C:\Users\osama\source\repos\Preply-LearningC#\AdminOrManager-Boolean-Exercise\obj\Debug\net9.0\AdminOrManager-Boolean-Exercise.dll
+C:\Users\osama\source\repos\Preply-LearningC#\AdminOrManager-Boolean-Exercise\obj\Debug\net9.0\refint\AdminOrManager-Boolean-Exercise.dll
+C:\Users\osama\source\repos\Preply-LearningC#\AdminOrManager-Boolean-Exercise\obj\Debug\net9.0\AdminOrManager-Boolean-Exercise.pdb
+C:\Users\osama\source\repos\Preply-LearningC#\AdminOrManager-Boolean-Exercise\obj\Debug\net9.0\AdminOrManager-Boolean-Exercise.genruntimeconfig.cache
+C:\Users\osama\source\repos\Preply-LearningC#\AdminOrManager-Boolean-Exercise\obj\Debug\net9.0\ref\AdminOrManager-Boolean-Exercise.dll

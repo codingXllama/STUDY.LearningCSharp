@@ -1,0 +1,14 @@
+C:\Users\osama\source\repos\Preply-LearningC#\Booleans\bin\Debug\net9.0\Booleans.exe
+C:\Users\osama\source\repos\Preply-LearningC#\Booleans\bin\Debug\net9.0\Booleans.deps.json
+C:\Users\osama\source\repos\Preply-LearningC#\Booleans\bin\Debug\net9.0\Booleans.runtimeconfig.json
+C:\Users\osama\source\repos\Preply-LearningC#\Booleans\bin\Debug\net9.0\Booleans.dll
+C:\Users\osama\source\repos\Preply-LearningC#\Booleans\bin\Debug\net9.0\Booleans.pdb
+C:\Users\osama\source\repos\Preply-LearningC#\Booleans\obj\Debug\net9.0\Booleans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osama\source\repos\Preply-LearningC#\Booleans\obj\Debug\net9.0\Booleans.AssemblyInfoInputs.cache
+C:\Users\osama\source\repos\Preply-LearningC#\Booleans\obj\Debug\net9.0\Booleans.AssemblyInfo.cs
+C:\Users\osama\source\repos\Preply-LearningC#\Booleans\obj\Debug\net9.0\Booleans.csproj.CoreCompileInputs.cache
+C:\Users\osama\source\repos\Preply-LearningC#\Booleans\obj\Debug\net9.0\Booleans.dll
+C:\Users\osama\source\repos\Preply-LearningC#\Booleans\obj\Debug\net9.0\refint\Booleans.dll
+C:\Users\osama\source\repos\Preply-LearningC#\Booleans\obj\Debug\net9.0\Booleans.pdb
+C:\Users\osama\source\repos\Preply-LearningC#\Booleans\obj\Debug\net9.0\Booleans.genruntimeconfig.cache
+C:\Users\osama\source\repos\Preply-LearningC#\Booleans\obj\Debug\net9.0\ref\Booleans.dll
