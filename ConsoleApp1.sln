@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Booleans", "..\Booleans\Boo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinFlip-Challenge", "..\CoinFlip-Challenge\CoinFlip-Challenge.csproj", "{B230B75C-52C8-4765-B5E6-6877B3CBA0FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminOrManager-Boolean-Exercise", "..\AdminOrManager-Boolean-Exercise\AdminOrManager-Boolean-Exercise.csproj", "{CD6D083D-4868-4E4B-9077-86858386CB09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B230B75C-52C8-4765-B5E6-6877B3CBA0FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B230B75C-52C8-4765-B5E6-6877B3CBA0FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B230B75C-52C8-4765-B5E6-6877B3CBA0FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD6D083D-4868-4E4B-9077-86858386CB09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD6D083D-4868-4E4B-9077-86858386CB09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD6D083D-4868-4E4B-9077-86858386CB09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD6D083D-4868-4E4B-9077-86858386CB09}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
