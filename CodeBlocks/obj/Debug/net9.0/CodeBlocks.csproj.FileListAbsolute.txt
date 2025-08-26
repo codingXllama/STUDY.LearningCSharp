@@ -1,0 +1,15 @@
+C:\Users\osama\source\repos\Preply-LearningC#\CodeBlocks\bin\Debug\net9.0\CodeBlocks.exe
+C:\Users\osama\source\repos\Preply-LearningC#\CodeBlocks\bin\Debug\net9.0\CodeBlocks.deps.json
+C:\Users\osama\source\repos\Preply-LearningC#\CodeBlocks\bin\Debug\net9.0\CodeBlocks.runtimeconfig.json
+C:\Users\osama\source\repos\Preply-LearningC#\CodeBlocks\bin\Debug\net9.0\CodeBlocks.dll
+C:\Users\osama\source\repos\Preply-LearningC#\CodeBlocks\bin\Debug\net9.0\CodeBlocks.pdb
+C:\Users\osama\source\repos\Preply-LearningC#\CodeBlocks\obj\Debug\net9.0\CodeBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osama\source\repos\Preply-LearningC#\CodeBlocks\obj\Debug\net9.0\CodeBlocks.AssemblyInfoInputs.cache
+C:\Users\osama\source\repos\Preply-LearningC#\CodeBlocks\obj\Debug\net9.0\CodeBlocks.AssemblyInfo.cs
+C:\Users\osama\source\repos\Preply-LearningC#\CodeBlocks\obj\Debug\net9.0\CodeBlocks.csproj.CoreCompileInputs.cache
+C:\Users\osama\source\repos\Preply-LearningC#\CodeBlocks\obj\Debug\net9.0\CodeBlocks.sourcelink.json
+C:\Users\osama\source\repos\Preply-LearningC#\CodeBlocks\obj\Debug\net9.0\CodeBlocks.dll
+C:\Users\osama\source\repos\Preply-LearningC#\CodeBlocks\obj\Debug\net9.0\refint\CodeBlocks.dll
+C:\Users\osama\source\repos\Preply-LearningC#\CodeBlocks\obj\Debug\net9.0\CodeBlocks.pdb
+C:\Users\osama\source\repos\Preply-LearningC#\CodeBlocks\obj\Debug\net9.0\CodeBlocks.genruntimeconfig.cache
+C:\Users\osama\source\repos\Preply-LearningC#\CodeBlocks\obj\Debug\net9.0\ref\CodeBlocks.dll
