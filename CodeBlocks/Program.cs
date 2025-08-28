@@ -60,5 +60,7 @@
             Console.WriteLine($"Total: {total}\n");
 
         }
+
+
     }
 }
