@@ -57,7 +57,7 @@
                 Console.WriteLine("Set contains 42");
             }
 
-            Console.WriteLine($"Total: {total}");
+            Console.WriteLine($"Total: {total}\n");
 
         }
     }
