@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            //Console.WriteLine("Hello, World!");
+            BusinessLogic();
         }
 
 
@@ -18,9 +19,24 @@
 
             Random random = new Random();
             int daysUntilExpiration = random.Next(12);
-            int discountPercentage = 0;
+            //int discountPercentage = 0;
 
-
+            if (daysUntilExpiration <= 10)
+            {
+                Console.WriteLine($"Days until Expiration is: {daysUntilExpiration}\nYour subscription will expire soon. Renew now! ");
+            }
+            else if (daysUntilExpiration <= 5)
+            {
+                Console.WriteLine($"Your subscription expires in {daysUntilExpiration} days.\nRenew now and save 10%!");
+            }
+            else if (daysUntilExpiration == 1)
+            {
+                Console.WriteLine("Your subscription expires within a day!\r\nRenew now and save 20%!");
+            }
+            else
+            {
+                Console.WriteLine($"Days until Expiration is: {daysUntilExpiration}\nYour subscription has expired.");
+            }
         }
     }
 }
