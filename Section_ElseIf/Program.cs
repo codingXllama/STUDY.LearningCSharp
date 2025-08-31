@@ -19,8 +19,9 @@
 
             Random random = new Random();
             int daysUntilExpiration = random.Next(12);
-            //int discountPercentage = 0;
+            int discountPercentage = 0;
 
+            /*
             if (daysUntilExpiration <= 10)
             {
                 Console.WriteLine($"Days until Expiration is: {daysUntilExpiration}\nYour subscription will expire soon. Renew now! ");
@@ -37,6 +38,37 @@
             {
                 Console.WriteLine($"Days until Expiration is: {daysUntilExpiration}\nYour subscription has expired.");
             }
+            */
+
+
+            if (!(daysUntilExpiration > 10))
+            {
+                Console.WriteLine($"Days Until Expiration: {daysUntilExpiration}");
+                if (daysUntilExpiration == 0)
+                {
+                    Console.WriteLine($"Days Until Expiration: {daysUntilExpiration}");
+                    Console.WriteLine("Your subscription has expired.");
+                }
+                else if (daysUntilExpiration == 1)
+                {
+                    Console.WriteLine($"Days Until Expiration: {daysUntilExpiration}");
+                    Console.WriteLine("Your subscription expires within a day!\r\nRenew now and save 20%!");
+                }
+                else if (daysUntilExpiration <= 5)
+                {
+                    Console.WriteLine($"Your subscription expires in {daysUntilExpiration} days.\r\nRenew now and save 10%!");
+                }
+                else if (daysUntilExpiration <= 10)
+                {
+                    Console.WriteLine($"Days Until Expiration: {daysUntilExpiration}");
+                    Console.WriteLine("Your subscription will expire soon. Renew now!");
+                }
+            }
+            else
+            {
+                Console.WriteLine($"Days Until Expiration: {daysUntilExpiration}\nNothing");
+            }
+
         }
     }
 }
