@@ -46,6 +46,8 @@
         {
             string[] orderID_array = ["B123", "C234", "A345", "C15", "B177", "G3003", "C235", "B179"];
 
+            Console.WriteLine($"The 3rd element of the array is {orderID_array[2]}");
+
             foreach (string item in orderID_array)
             {
                 if (item.StartsWith("B"))

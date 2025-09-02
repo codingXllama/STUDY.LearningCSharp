@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RandomDiceRoll")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1b20458771f3ed3d8de842a40bf3083e6bf3548")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62e078c791b7e24604b407b1743b4f62fb153085")]
 [assembly: System.Reflection.AssemblyProductAttribute("RandomDiceRoll")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RandomDiceRoll")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
