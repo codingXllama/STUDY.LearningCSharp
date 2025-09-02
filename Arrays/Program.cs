@@ -46,10 +46,21 @@
         {
             string[] orderID_array = ["B123", "C234", "A345", "C15", "B177", "G3003", "C235", "B179"];
 
-            foreach (var item in orderID_array)
+            foreach (string item in orderID_array)
             {
-                Console.WriteLine(item);
+                if (item.StartsWith("B"))
+                {
+                    Console.WriteLine(item);
+                }
             }
+
+            //string name = "Bob";
+            //if (name.StartsWith("B"))
+            //{
+            //    Console.WriteLine("The name starts with B!");
+            //}
+
+
         }
 
     }
