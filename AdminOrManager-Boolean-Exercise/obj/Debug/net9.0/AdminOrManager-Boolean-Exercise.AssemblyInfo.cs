@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AdminOrManager-Boolean-Exercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62e078c791b7e24604b407b1743b4f62fb153085")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1f6b9c0caa9ed924c7202d5bf13102af1105112")]
 [assembly: System.Reflection.AssemblyProductAttribute("AdminOrManager-Boolean-Exercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AdminOrManager-Boolean-Exercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

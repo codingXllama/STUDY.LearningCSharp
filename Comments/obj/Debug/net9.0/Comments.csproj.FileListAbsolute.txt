@@ -1,0 +1,15 @@
+C:\Users\osama\source\repos\Preply-LearningC#\Comments\bin\Debug\net9.0\Comments.exe
+C:\Users\osama\source\repos\Preply-LearningC#\Comments\bin\Debug\net9.0\Comments.deps.json
+C:\Users\osama\source\repos\Preply-LearningC#\Comments\bin\Debug\net9.0\Comments.runtimeconfig.json
+C:\Users\osama\source\repos\Preply-LearningC#\Comments\bin\Debug\net9.0\Comments.dll
+C:\Users\osama\source\repos\Preply-LearningC#\Comments\bin\Debug\net9.0\Comments.pdb
+C:\Users\osama\source\repos\Preply-LearningC#\Comments\obj\Debug\net9.0\Comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osama\source\repos\Preply-LearningC#\Comments\obj\Debug\net9.0\Comments.AssemblyInfoInputs.cache
+C:\Users\osama\source\repos\Preply-LearningC#\Comments\obj\Debug\net9.0\Comments.AssemblyInfo.cs
+C:\Users\osama\source\repos\Preply-LearningC#\Comments\obj\Debug\net9.0\Comments.csproj.CoreCompileInputs.cache
+C:\Users\osama\source\repos\Preply-LearningC#\Comments\obj\Debug\net9.0\Comments.sourcelink.json
+C:\Users\osama\source\repos\Preply-LearningC#\Comments\obj\Debug\net9.0\Comments.dll
+C:\Users\osama\source\repos\Preply-LearningC#\Comments\obj\Debug\net9.0\refint\Comments.dll
+C:\Users\osama\source\repos\Preply-LearningC#\Comments\obj\Debug\net9.0\Comments.pdb
+C:\Users\osama\source\repos\Preply-LearningC#\Comments\obj\Debug\net9.0\Comments.genruntimeconfig.cache
+C:\Users\osama\source\repos\Preply-LearningC#\Comments\obj\Debug\net9.0\ref\Comments.dll
