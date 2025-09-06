@@ -43,6 +43,10 @@
 
         public static void Challenge()
         {
+            /*
+             *  This function take a string and reverse it then finds how many times the letter 'o' appears in the string.
+             * 
+             */
             string str = "The quick brown fox jumps over the lazy dog.";
 
             //convert the message into a char array
