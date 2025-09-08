@@ -10,7 +10,12 @@
         // Exercise from https://learn.microsoft.com/en-us/training/modules/guided-project-arrays-iteration-selection/2-prepare
         public static void Exercise()
         {
+            int[] grades = new int[5];
 
+            for (int i = 0; i < 3; i++)
+            {
+
+            }
         }
     }
 }
