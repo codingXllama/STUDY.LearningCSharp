@@ -1,0 +1,15 @@
+C:\Users\osama\source\repos\Preply-LearningC#\Part2_GuidedProject\bin\Debug\net9.0\Part2_GuidedProject.exe
+C:\Users\osama\source\repos\Preply-LearningC#\Part2_GuidedProject\bin\Debug\net9.0\Part2_GuidedProject.deps.json
+C:\Users\osama\source\repos\Preply-LearningC#\Part2_GuidedProject\bin\Debug\net9.0\Part2_GuidedProject.runtimeconfig.json
+C:\Users\osama\source\repos\Preply-LearningC#\Part2_GuidedProject\bin\Debug\net9.0\Part2_GuidedProject.dll
+C:\Users\osama\source\repos\Preply-LearningC#\Part2_GuidedProject\bin\Debug\net9.0\Part2_GuidedProject.pdb
+C:\Users\osama\source\repos\Preply-LearningC#\Part2_GuidedProject\obj\Debug\net9.0\Part2_GuidedProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osama\source\repos\Preply-LearningC#\Part2_GuidedProject\obj\Debug\net9.0\Part2_GuidedProject.AssemblyInfoInputs.cache
+C:\Users\osama\source\repos\Preply-LearningC#\Part2_GuidedProject\obj\Debug\net9.0\Part2_GuidedProject.AssemblyInfo.cs
+C:\Users\osama\source\repos\Preply-LearningC#\Part2_GuidedProject\obj\Debug\net9.0\Part2_GuidedProject.csproj.CoreCompileInputs.cache
+C:\Users\osama\source\repos\Preply-LearningC#\Part2_GuidedProject\obj\Debug\net9.0\Part2_GuidedProject.sourcelink.json
+C:\Users\osama\source\repos\Preply-LearningC#\Part2_GuidedProject\obj\Debug\net9.0\Part2_GuidedProject.dll
+C:\Users\osama\source\repos\Preply-LearningC#\Part2_GuidedProject\obj\Debug\net9.0\refint\Part2_GuidedProject.dll
+C:\Users\osama\source\repos\Preply-LearningC#\Part2_GuidedProject\obj\Debug\net9.0\Part2_GuidedProject.pdb
+C:\Users\osama\source\repos\Preply-LearningC#\Part2_GuidedProject\obj\Debug\net9.0\Part2_GuidedProject.genruntimeconfig.cache
+C:\Users\osama\source\repos\Preply-LearningC#\Part2_GuidedProject\obj\Debug\net9.0\ref\Part2_GuidedProject.dll
