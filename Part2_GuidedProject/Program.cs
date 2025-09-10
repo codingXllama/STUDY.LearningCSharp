@@ -32,7 +32,13 @@
             Console.WriteLine("Press the Enter key to continue");
             Console.ReadLine();
 
+            string[] studentNames = new string[] { "Sophia", "Andrew", "Emma", "Logan" };
 
+            //displaying list of students
+            foreach (string student in studentNames)
+            {
+                Console.WriteLine(student);
+            }
         }
     }
 }
