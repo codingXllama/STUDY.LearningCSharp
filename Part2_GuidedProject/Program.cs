@@ -1,15 +1,15 @@
 ﻿namespace Part2_GuidedProject
-    {
+{
     class Program
-        {
+    {
         static void Main(string[] args)
-            {
+        {
             Exercise();
-            }
+        }
 
         // Exercise from https://learn.microsoft.com/en-us/training/modules/guided-project-arrays-iteration-selection/2-prepare
         private static void Exercise()
-            {
+        {
             const int currentAssignments = 5;
             var sophiaScores = new int[] { 90, 85, 87, 98, 100 };
             var andrewScores = new int[] { 92, 89, 81, 96, 90 };
@@ -24,9 +24,9 @@
 
             // displaying each grade in Sophia socres
             foreach (var score in sophiaScores)
-                {
+            {
                 Console.WriteLine(score);
-                }
+            }
 
             Console.WriteLine("Press the Enter key to continue");
             Console.ReadLine();
@@ -35,9 +35,9 @@
 
             //displaying list of students
             foreach (var name in studentNames)
-                {
-                Console.WriteLine($"{name}");
-                }
+            {
+                Console.WriteLine($"Students name is: {name}");
             }
         }
     }
+}
