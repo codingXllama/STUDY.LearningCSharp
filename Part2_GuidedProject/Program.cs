@@ -10,7 +10,8 @@ namespace Part2_GuidedProject
             //HardCodedApproach();
             //ArrayApproach();
             //NestedApproachForOneStudent();
-            NestedApporachForAllStudents();
+            //NestedApporachForAllStudents();
+            CodingBranchesUsingSelectionStatements();
         }
 
         // Exercise from https://learn.microsoft.com/en-us/training/modules/guided-project-arrays-iteration-selection/2-prepare
@@ -211,7 +212,7 @@ namespace Part2_GuidedProject
             int[] andrewScores = new int[] { 92, 89, 81, 96, 90 };
             int[] emmaScores = new int[] { 90, 85, 87, 98, 68 };
             int[] loganScores = new int[] { 90, 95, 87, 88, 96 };
-           
+
             int[] studentScores = new int[10];
 
 
@@ -247,23 +248,23 @@ namespace Part2_GuidedProject
                     studentScores = [];
                 }
 
-                    //initialize/reset the sum of scored assignments
-                    int studentScoreSum = 0;
+                //initialize/reset the sum of scored assignments
+                int studentScoreSum = 0;
 
                 //initialize/reset the calculated average of exam + extra credit scores
-                decimal currentStudentGrade = 0 ;
+                decimal currentStudentGrade = 0;
                 //Console.WriteLine($"Student grade  before: {currentStudentGrade}");
 
-                //Console.WriteLine($"Score before: {studentScoreSum}");
+                //Console.WriteLine($"Score before: {sumAssignmentScore}");
                 //Calculating students score
                 foreach (int score in studentScores)
                 {
                     //Console.WriteLine($"Current student: {name}");
                     studentScoreSum += score;
-                    //Console.WriteLine($"Current studentScoreSum: {name}");
+                    //Console.WriteLine($"Current sumAssignmentScore: {name}");
 
                 }
-                //Console.WriteLine($"Score after: {studentScoreSum}");
+                //Console.WriteLine($"Score after: {sumAssignmentScore}");
 
 
 
@@ -283,6 +284,140 @@ namespace Part2_GuidedProject
             Console.ReadLine();
         }
 
+
+        private static void CodingBranchesUsingSelectionStatements()
+        {
+            const int currentAssignments = 5;
+            decimal sophiaScore;
+
+            //Student information
+
+            string[] studentNames = new string[] { "Sophia", "Andrew", "Emma", "Logan" };
+            int[] sophiaScores = new int[] { 90, 86, 87, 98, 100 };
+            int[] andrewScores = new int[] { 92, 89, 81, 96, 90 };
+            int[] emmaScores = new int[] { 90, 85, 87, 98, 68 };
+            int[] loganScores = new int[] { 90, 95, 87, 88, 96 };
+
+            int[] studentScores = new int[10];
+            string currentStudentLetterGrade = "";
+
+
+            //Calculating Each student score
+
+            Console.WriteLine("\nStudent\t\tGrade\n");
+
+            foreach (string name in studentNames)
+            {
+                string currentStudent = name;
+
+                if (currentStudent.Contains("Sophia"))
+                {
+                    studentScores = sophiaScores;
+                }
+
+                else if (currentStudent == "Andrew")
+                {
+                    studentScores = andrewScores;
+                }
+                else if (currentStudent == "Emma")
+                {
+                    studentScores = emmaScores;
+                }
+
+                else if (currentStudent.ToLower() == "logan")
+                {
+                    studentScores = loganScores;
+                }
+                // in case the student is not found in the list
+                else
+                {
+                    Console.WriteLine($"Student {name} is not found");
+                    studentScores = [];
+                }
+
+                //initialize/reset the sum of scored assignments
+                int sumAssignmentScore = 0;
+
+                //initialize/reset the calculated average of exam + extra credit scores
+                decimal currentStudentGrade = 0;
+
+                //Calculating students score
+                foreach (int score in studentScores)
+                {
+                    sumAssignmentScore += score;
+                }
+
+
+
+                //Calculating the students Grade
+                currentStudentGrade = (decimal)sumAssignmentScore / currentAssignments;
+
+                if (currentStudentGrade >= 97)
+                {
+                    currentStudentLetterGrade = "A+";
+                }
+                else if (currentStudentGrade >= 93 && currentStudentGrade <= 96)
+                {
+                    currentStudentLetterGrade = "A";
+
+                }
+                else if (currentStudentGrade >= 90)
+                {
+                    currentStudentLetterGrade = "A-";
+
+                }
+
+                else if (currentStudentGrade >= 87)
+                {
+                    currentStudentLetterGrade = "B+";
+                }
+                else if (currentStudentGrade >= 83)
+                {
+                    currentStudentLetterGrade = "B";
+                }
+                else if (currentStudentGrade >= 80)
+                {
+                    currentStudentLetterGrade = "B-";
+                }
+                else if (currentStudentGrade >= 77)
+                {
+                    currentStudentLetterGrade = "C+";
+                }
+                else if (currentStudentGrade >= 73)
+                {
+                    currentStudentLetterGrade = "C";
+                }
+
+                else if (currentStudentGrade >= 70)
+                {
+                    currentStudentLetterGrade = "C-";
+                }
+                else if (currentStudentGrade >= 67)
+                {
+                    currentStudentLetterGrade = "D+";
+                }
+                else if (currentStudentGrade >= 63)
+                {
+                    currentStudentLetterGrade = "D";
+                }
+                else if (currentStudentGrade >= 60)
+                {
+                    currentStudentLetterGrade = "D-";
+                }
+
+                else
+                {
+                    currentStudentLetterGrade = "F";
+                }
+                    //Displaying the output 
+                    Console.WriteLine($"{currentStudent}\t\t{currentStudentGrade}\t{currentStudentLetterGrade}");
+
+
+            }
+
+            Console.WriteLine("Press the Enter key to continue...");
+            Console.ReadLine();
+        }
     }
 
 
