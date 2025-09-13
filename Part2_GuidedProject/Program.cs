@@ -10,6 +10,7 @@ namespace Part2_GuidedProject
             //HardCodedApproach();
             //ArrayApproach();
             //NestedApproachForOneStudent();
+            NestedApporachForAllStudents();
         }
 
         // Exercise from https://learn.microsoft.com/en-us/training/modules/guided-project-arrays-iteration-selection/2-prepare
@@ -165,7 +166,7 @@ namespace Part2_GuidedProject
 
 
 
-            decimal sophiaScore,andrewScore, emmaScore, loganScore;
+            decimal sophiaScore, andrewScore, emmaScore, loganScore;
 
 
             foreach (string name in studentNames)
@@ -177,15 +178,15 @@ namespace Part2_GuidedProject
                     int sophiaSum = 0;
 
                     //Console.WriteLine("This is Sophia");
-                    foreach (int grade in sophiaScores )
+                    foreach (int grade in sophiaScores)
                     {
-                        sophiaSum+= grade;
+                        sophiaSum += grade;
                     }
                     sophiaScore = (decimal)sophiaSum / currentAssignments;
                     Console.WriteLine("\nStudent\t\tGrade\n");
                     Console.WriteLine("Sophia:\t\t" + sophiaScore + "\tA-");
                 }
-                
+
             }
 
 
@@ -197,7 +198,90 @@ namespace Part2_GuidedProject
 
         }
 
-        
+        private static void NestedApporachForAllStudents()
+        {
+
+            const int currentAssignments = 5;
+            decimal sophiaScore;
+
+            //Student information
+
+            string[] studentNames = new string[] { "Sophia", "Andrew", "Emma", "Logan" };
+            int[] sophiaScores = new int[] { 90, 86, 87, 98, 100 };
+            int[] andrewScores = new int[] { 92, 89, 81, 96, 90 };
+            int[] emmaScores = new int[] { 90, 85, 87, 98, 68 };
+            int[] loganScores = new int[] { 90, 95, 87, 88, 96 };
+           
+            int[] studentScores = new int[10];
+
+
+            //Calculating Each student score
+
+            Console.WriteLine("\nStudent\t\tGrade\n");
+
+            foreach (string name in studentNames)
+            {
+                string currentStudent = name;
+
+                if (currentStudent.Contains("Sophia"))
+                {
+                    studentScores = sophiaScores;
+                }
+
+                else if (currentStudent == "Andrew")
+                {
+                    studentScores = andrewScores;
+                }
+                else if (currentStudent == "Emma")
+                {
+                    studentScores = emmaScores;
+                }
+                else if (currentStudent.ToLower() == "logan")
+                {
+                    studentScores = loganScores;
+                }
+                // in case the student is not found in the list
+                else
+                {
+                    Console.WriteLine($"Student {name} is not found");
+                    studentScores = [];
+                }
+
+                    //initialize/reset the sum of scored assignments
+                    int studentScoreSum = 0;
+
+                //initialize/reset the calculated average of exam + extra credit scores
+                decimal currentStudentGrade = 0 ;
+                //Console.WriteLine($"Student grade  before: {currentStudentGrade}");
+
+                //Console.WriteLine($"Score before: {studentScoreSum}");
+                //Calculating students score
+                foreach (int score in studentScores)
+                {
+                    //Console.WriteLine($"Current student: {name}");
+                    studentScoreSum += score;
+                    //Console.WriteLine($"Current studentScoreSum: {name}");
+
+                }
+                //Console.WriteLine($"Score after: {studentScoreSum}");
+
+
+
+                //Calculating the students Grade
+                currentStudentGrade = (decimal)studentScoreSum / currentAssignments;
+
+                //Console.WriteLine($"Student grade  after: {currentStudentGrade}");
+
+
+                //Displaying the output 
+                Console.WriteLine($"{currentStudent}\t\t{currentStudentGrade}\t?");
+
+
+            }
+
+            Console.WriteLine("Press the Enter key to continue...");
+            Console.ReadLine();
+        }
 
     }
 
