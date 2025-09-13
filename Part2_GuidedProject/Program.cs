@@ -1,4 +1,6 @@
-﻿namespace Part2_GuidedProject
+﻿using System.Xml.Linq;
+
+namespace Part2_GuidedProject
 {
     class Program
     {
@@ -6,7 +8,8 @@
         {
             //Exercise();
             //HardCodedApproach();
-            ArrayApproach();
+            //ArrayApproach();
+            //NestedApproachForOneStudent();
         }
 
         // Exercise from https://learn.microsoft.com/en-us/training/modules/guided-project-arrays-iteration-selection/2-prepare
@@ -18,12 +21,12 @@
             var emmaScores = new int[] { 90, 85, 87, 98, 68 };
             var loganScores = new int[] { 90, 95, 87, 88, 96 };
 
-    
-         
+
+
 
             var sophiaSum = 0;
             var sophiaScore = (decimal)sophiaSum / currentAssignments;
-                
+
             Console.WriteLine("Student\t\tGrade\n");
             Console.WriteLine("Sophia:\t\t" + sophiaScore + "\tA-");
 
@@ -32,7 +35,7 @@
             {
                 Console.WriteLine(score);
 
-                sophiaSum+=score;
+                sophiaSum += score;
             }
 
             Console.WriteLine($"Sophia's score is {sophiaSum}");
@@ -112,7 +115,7 @@
         {
             int currentAssignments = 5;
             int[] sophiaScores = new int[] { 90, 86, 87, 98, 100 };
-            int[] andrewScores = new int[] { 92,89,81,96,90};
+            int[] andrewScores = new int[] { 92, 89, 81, 96, 90 };
             int[] emmaScores = new int[] { 90, 85, 87, 98, 68 };
             int[] loganScores = new int[] { 90, 95, 87, 88, 96 };
 
@@ -142,17 +145,65 @@
 
             Console.WriteLine("Press the Enter key to continue");
             Console.ReadLine();
-            
 
-           
+
+
 
         }
 
+        private static void NestedApproachForOneStudent()
+        {
+            const int currentAssignments = 5;
+            string[] studentNames = new string[] { "Sophia", "Andrew", "Emma", "Logan" };
+            int[] studentScores = new int[10];
+
+            int[] sophiaScores = new int[] { 90, 86, 87, 98, 100 };
+            int[] andrewScores = new int[] { 92, 89, 81, 96, 90 };
+            int[] emmaScores = new int[] { 90, 85, 87, 98, 68 };
+            int[] loganScores = new int[] { 90, 95, 87, 88, 96 };
 
 
+
+
+            decimal sophiaScore,andrewScore, emmaScore, loganScore;
+
+
+            foreach (string name in studentNames)
+            {
+                //Console.WriteLine($"{name}");
+
+                if (name.Contains("Sophia"))
+                {
+                    int sophiaSum = 0;
+
+                    //Console.WriteLine("This is Sophia");
+                    foreach (int grade in sophiaScores )
+                    {
+                        sophiaSum+= grade;
+                    }
+                    sophiaScore = (decimal)sophiaSum / currentAssignments;
+                    Console.WriteLine("\nStudent\t\tGrade\n");
+                    Console.WriteLine("Sophia:\t\t" + sophiaScore + "\tA-");
+                }
+                
+            }
+
+
+
+            Console.WriteLine("Press the Enter key to continue ");
+            Console.ReadLine();
+
+
+
+        }
+
+        
 
     }
 
 
-
 }
+
+
+
+
