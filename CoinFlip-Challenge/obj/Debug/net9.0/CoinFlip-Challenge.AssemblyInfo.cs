@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoinFlip-Challenge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+458ca8b0c7cb94d839a6f8a63d27c52d4421f784")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfdf5fc7c8e9984c279fb63193b84043ecdbe61d")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoinFlip-Challenge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoinFlip-Challenge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\osama\\source\\repos\\Preply-LearningC#\\OOP\\OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C74804D7-76F4-A758-E2F3-62FADAC87776}|ConsoleApp1\\DEMO.csproj|c:\\users\\osama\\source\\repos\\preply-learningc#\\oop\\oop\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C74804D7-76F4-A758-E2F3-62FADAC87776}|ConsoleApp1\\DEMO.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74804D7-76F4-A758-E2F3-62FADAC87776}|ConsoleApp1\\DEMO.csproj|c:\\users\\osama\\source\\repos\\preply-learningc#\\oop\\oop\\consoleapp1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C74804D7-76F4-A758-E2F3-62FADAC87776}|ConsoleApp1\\DEMO.csproj|solutionrelative:consoleapp1\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C74804D7-76F4-A758-E2F3-62FADAC87776}|ConsoleApp1\\DEMO.csproj|c:\\users\\osama\\source\\repos\\preply-learningc#\\oop\\oop\\consoleapp1\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C74804D7-76F4-A758-E2F3-62FADAC87776}|ConsoleApp1\\DEMO.csproj|solutionrelative:consoleapp1\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 938,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\osama\\source\\repos\\Preply-LearningC#\\OOP\\OOP\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\osama\\source\\repos\\Preply-LearningC#\\OOP\\OOP\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T16:46:44.442Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\osama\\source\\repos\\Preply-LearningC#\\OOP\\OOP\\ConsoleApp1\\Person.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Person.cs",
+              "ToolTip": "C:\\Users\\osama\\source\\repos\\Preply-LearningC#\\OOP\\OOP\\ConsoleApp1\\Person.cs",
+              "RelativeToolTip": "ConsoleApp1\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T17:15:25.59Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\osama\\source\\repos\\Preply-LearningC#\\OOP\\OOP\\ConsoleApp1\\Admin.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Admin.cs",
+              "ToolTip": "C:\\Users\\osama\\source\\repos\\Preply-LearningC#\\OOP\\OOP\\ConsoleApp1\\Admin.cs",
+              "RelativeToolTip": "ConsoleApp1\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T17:25:02.178Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\osama\source\repos\Preply-LearningC#\OOP\OOP\ConsoleApp1\obj\Debug\net9.0\DEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\osama\source\repos\Preply-LearningC#\OOP\OOP\ConsoleApp1\obj\Debug\net9.0\DEMO.AssemblyInfoInputs.cache
+C:\Users\osama\source\repos\Preply-LearningC#\OOP\OOP\ConsoleApp1\obj\Debug\net9.0\DEMO.AssemblyInfo.cs
+C:\Users\osama\source\repos\Preply-LearningC#\OOP\OOP\ConsoleApp1\obj\Debug\net9.0\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\osama\source\repos\Preply-LearningC#\OOP\OOP\ConsoleApp1\obj\Debug\net9.0\DEMO.sourcelink.json
+C:\Users\osama\source\repos\Preply-LearningC#\OOP\OOP\ConsoleApp1\bin\Debug\net9.0\DEMO.exe
+C:\Users\osama\source\repos\Preply-LearningC#\OOP\OOP\ConsoleApp1\bin\Debug\net9.0\DEMO.deps.json
+C:\Users\osama\source\repos\Preply-LearningC#\OOP\OOP\ConsoleApp1\bin\Debug\net9.0\DEMO.runtimeconfig.json
+C:\Users\osama\source\repos\Preply-LearningC#\OOP\OOP\ConsoleApp1\bin\Debug\net9.0\DEMO.dll
+C:\Users\osama\source\repos\Preply-LearningC#\OOP\OOP\ConsoleApp1\bin\Debug\net9.0\DEMO.pdb
+C:\Users\osama\source\repos\Preply-LearningC#\OOP\OOP\ConsoleApp1\obj\Debug\net9.0\DEMO.dll
+C:\Users\osama\source\repos\Preply-LearningC#\OOP\OOP\ConsoleApp1\obj\Debug\net9.0\refint\DEMO.dll
+C:\Users\osama\source\repos\Preply-LearningC#\OOP\OOP\ConsoleApp1\obj\Debug\net9.0\DEMO.pdb
+C:\Users\osama\source\repos\Preply-LearningC#\OOP\OOP\ConsoleApp1\obj\Debug\net9.0\DEMO.genruntimeconfig.cache
+C:\Users\osama\source\repos\Preply-LearningC#\OOP\OOP\ConsoleApp1\obj\Debug\net9.0\ref\DEMO.dll
