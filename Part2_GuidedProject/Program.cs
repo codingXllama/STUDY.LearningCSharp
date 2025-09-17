@@ -122,15 +122,15 @@ namespace Part2_GuidedProject
             int[] loganScores = new int[] { 90, 95, 87, 88, 96 };
 
             int sophiaSum = 0;
-            int andrewSum = 0;
-            int emmaSum = 0;
-            int loganSum = 0;
+            //int andrewSum = 0;
+            //int emmaSum = 0;
+            //int loganSum = 0;
 
 
             decimal sophiaScore;
-            decimal andrewScore;
-            decimal emmaScore;
-            decimal loganScore;
+            //decimal andrewScore;
+            //decimal emmaScore;
+            //decimal loganScore;
 
 
             // calculating Sophia's grade 
@@ -167,7 +167,8 @@ namespace Part2_GuidedProject
 
 
 
-            decimal sophiaScore, andrewScore, emmaScore, loganScore;
+            decimal sophiaScore;
+                //decimal andrewScore, emmaScore, loganScore;
 
 
             foreach (string name in studentNames)
@@ -203,7 +204,7 @@ namespace Part2_GuidedProject
         {
 
             const int currentAssignments = 5;
-            decimal sophiaScore;
+            //decimal sophiaScore;
 
             //Student information
 
@@ -288,7 +289,7 @@ namespace Part2_GuidedProject
         private static void CodingBranchesUsingSelectionStatements()
         {
             const int currentAssignments = 5;
-            decimal sophiaScore;
+            //decimal sophiaScore;
 
             //Student information
 
