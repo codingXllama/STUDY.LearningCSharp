@@ -135,7 +135,7 @@ namespace Part2_GuidedProject
 
             // calculating Sophia's grade 
             foreach (var score in sophiaScores)
-            {
+            { 
                 sophiaSum += score;
             }
 

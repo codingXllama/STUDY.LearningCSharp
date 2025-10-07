@@ -1,23 +1,35 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Channels;
-using System.Threading.Tasks;
-
-namespace DEMO
+﻿namespace DEMO
 {
-    public class Admin : Person
+    public class Admin : Person, ISlotViewer
     {
-       public override string LogIn()
+        private int bookedSlots = 5;
+        private int totalNumberOfSlots = 11;
+        private int freeSlots;
+
+        public int NumberOfSlots
         {
-            return  "LogIn";
+            get => totalNumberOfSlots;
+
+            set => totalNumberOfSlots = value;
+
+        }
+
+        public int FreeSlots { get => totalNumberOfSlots - bookedSlots; set => value = 10; }
+
+
+        public override string LogIn()
+        {
+            return "LogIn";
         }
 
         public string LogOut()
         {
             return "LogOut";
         }
-       
+
+        public int ViewSlots()
+        {
+            return NumberOfSlots + FreeSlots;
+        }
     }
 }

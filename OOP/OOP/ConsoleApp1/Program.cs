@@ -8,8 +8,14 @@ namespace OOP
     {
         public static void Main (string[] args)
         {
-            Admin myAdd = new Admin();
-            Console.WriteLine(myAdd.LogOut());
+            Admin firstAdmin = new Admin();
+            Console.WriteLine(firstAdmin.LogOut());
+
+            Console.WriteLine($"The total number of slots: {firstAdmin.NumberOfSlots=20}");
+            Console.WriteLine($"The total number of free slots: {firstAdmin.FreeSlots}");
+
+            Operator firstOperator = new Operator();
+            Console.WriteLine($"The total number of free slots: {firstOperator.FreeSlots}");
         }
 
     }
