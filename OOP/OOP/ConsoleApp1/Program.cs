@@ -1,12 +1,10 @@
 ﻿using DEMO;
-using System;
 
 namespace OOP
 {
-
     class Program
     {
-        public static void Main (string[] args)
+        public static void Main(string[] args)
         {
             Admin firstAdmin = new Admin();
             Console.WriteLine(firstAdmin.LogOut());

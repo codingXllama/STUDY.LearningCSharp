@@ -1,6 +1,4 @@
-﻿using System.Xml.Linq;
-
-namespace Part2_GuidedProject
+﻿namespace Part2_GuidedProject
 {
     class Program
     {
@@ -135,7 +133,7 @@ namespace Part2_GuidedProject
 
             // calculating Sophia's grade 
             foreach (var score in sophiaScores)
-            { 
+            {
                 sophiaSum += score;
             }
 
@@ -168,7 +166,7 @@ namespace Part2_GuidedProject
 
 
             decimal sophiaScore;
-                //decimal andrewScore, emmaScore, loganScore;
+            //decimal andrewScore, emmaScore, loganScore;
 
 
             foreach (string name in studentNames)
@@ -410,8 +408,8 @@ namespace Part2_GuidedProject
                 {
                     currentStudentLetterGrade = "F";
                 }
-                    //Displaying the output 
-                    Console.WriteLine($"{currentStudent}\t\t{currentStudentGrade}\t{currentStudentLetterGrade}");
+                //Displaying the output 
+                Console.WriteLine($"{currentStudent}\t\t{currentStudentGrade}\t{currentStudentLetterGrade}");
 
 
             }

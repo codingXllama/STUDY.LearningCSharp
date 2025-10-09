@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 72,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -36,10 +36,11 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\Users\\osama\\source\\repos\\Preply-LearningC#\\OOP\\OOP\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAywBIAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-13T16:46:44.442Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -49,10 +50,11 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Admin.cs",
               "ToolTip": "C:\\Users\\osama\\source\\repos\\Preply-LearningC#\\OOP\\OOP\\ConsoleApp1\\Admin.cs",
               "RelativeToolTip": "ConsoleApp1\\Admin.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAiwA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-13T17:25:02.178Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -67,10 +69,6 @@
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Operator.cs",
@@ -78,7 +76,7 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Operator.cs",
               "ToolTip": "C:\\Users\\osama\\source\\repos\\Preply-LearningC#\\OOP\\OOP\\ConsoleApp1\\Operator.cs",
               "RelativeToolTip": "ConsoleApp1\\Operator.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAiwBIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-23T03:42:57.372Z",
               "EditorCaption": ""
@@ -93,17 +91,8 @@
               "RelativeToolTip": "ConsoleApp1\\ISlotViewer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-23T02:47:58.918Z"
-            }
-          ]
-        },
-        {
-          "DockedHeight": 1066,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2025-09-23T02:47:58.918Z",
+              "EditorCaption": ""
             }
           ]
         },
