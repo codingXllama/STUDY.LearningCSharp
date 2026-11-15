@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             //Console.WriteLine("Hello, World!");
+
             BusinessLogic();
         }
 
@@ -45,6 +46,7 @@
 
             if (!(daysUntilExpiration == 10))
             {
+
                 Console.WriteLine($"Days Until Expiration: {daysUntilExpiration}");
                 if (daysUntilExpiration == 0)
                 {

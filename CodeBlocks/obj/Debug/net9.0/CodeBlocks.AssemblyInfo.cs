@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeBlocks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0aaea06179f8ffe7d83d694084b9f16a20f4d0dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c64d213c4db843959d03271ef63ceb8998a6897")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeBlocks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeBlocks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
